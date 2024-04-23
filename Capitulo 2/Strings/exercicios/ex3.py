@@ -1,0 +1,1 @@
+print('Ellen white disse : "Nada temos a temer quanto ao futuro, a menos que esqueçamos como Deus tem nos tratado no passado."')
