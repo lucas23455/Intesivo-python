@@ -1,0 +1,3 @@
+python é uma das linguagens mais simples e divertidas de aprender pois sua sintaxe é bastante intuitiva
+esse livro simplifica bastantes temas como estruturas de decisao, loops, dicionarios, listas, tuplas , objetos
+classes. tudo que a logica de programaçao explica
