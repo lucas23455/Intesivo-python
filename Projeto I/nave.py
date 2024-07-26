@@ -7,7 +7,7 @@ class Ship():
         self.ai_settings = ai_settings
         # Carrega a imagem da nave e redimensiona
         self.image = pygame.image.load('imagem/nave.bmp')
-        self.image = pygame.transform.scale(self.image, (100, 100))  # Redimensione conforme necessário
+        self.image = pygame.transform.scale(self.image, (150, 100))  # Redimensione conforme necessário
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()
 
